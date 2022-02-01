@@ -2,7 +2,7 @@
   ![This is a alt text.](https://img.shields.io/badge/license-MIT-green)
 
 # GitHub URL: 
-https://github.com/Blaker817/readme-generator#Usage
+https://github.com/Blaker817/readme-generator
 
 # Recording:
 
