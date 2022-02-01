@@ -1,5 +1,12 @@
 # README Generator
   ![This is a alt text.](https://img.shields.io/badge/license-MIT-green)
+
+# GitHub URL: 
+https://github.com/Blaker817/readme-generator#Usage
+
+# Recording:
+
+
 ## Contents 
 * [Description](#Description)
 * [Installation](#Installation)
